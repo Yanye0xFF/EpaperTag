@@ -4,3 +4,4 @@
     + unpack `lib.zip` to current directionary.
     + open `ARM Keil`, click 'Project' in toolbar and select 'Open Project...'
     + select project file `ble_4_2_app.uvprojx`.
+    + also supoort `Eclipse` as C editor, import `\EpaperTag\epaper` into workspace.
